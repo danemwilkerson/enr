@@ -1,0 +1,3 @@
+INFO     root:test_enr_pub.py:393 ************* Starting: test_0800_wallboard_validations
+INFO     root:test_enr_pub.py:398 Test Pass: Wallboard is displayed and Latest Status URL GETS a 200
+INFO     root:test_enr_pub.py:400 ************* ************* Starting ENR Regression Tests *************

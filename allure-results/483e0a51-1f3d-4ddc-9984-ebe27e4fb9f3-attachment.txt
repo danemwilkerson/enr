@@ -1,0 +1,9 @@
+INFO     root:test_enr_pub.py:218 ************* Starting: test_0501_voter_turnout_table_validations
+INFO     root:page_library.py:36 Validation | Element text: Party
+INFO     root:page_library.py:36 Validation | Element text: Turnout
+INFO     root:page_library.py:36 Validation | Element text: 57.82%
+INFO     root:page_library.py:36 Validation | Element text: 42.18%
+INFO     root:page_library.py:36 Validation | Element text: Democrat
+INFO     root:page_library.py:36 Validation | Element text: Republican
+INFO     root:page_library.py:36 Validation | Element text: Click a party row to see turnout in heatmap.
+INFO     root:test_enr_pub.py:229 Test Pass: Voter Turnout table headers are displayed and correct

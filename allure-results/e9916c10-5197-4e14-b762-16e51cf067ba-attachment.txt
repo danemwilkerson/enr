@@ -1,0 +1,4 @@
+INFO     root:test_enr_pub.py:341 ************* Starting: test_0702_republican_card_dropdown_second_place_validation
+INFO     root:page_library.py:36 Validation | Element text: John Anderson
+INFO     root:page_library.py:36 Validation | Element text: 7.1%
+INFO     root:test_enr_pub.py:349 Test Pass: Republican 2nd place candidate data is correct

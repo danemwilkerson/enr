@@ -1,0 +1,3 @@
+INFO     root:test_enr_pub.py:354 ************* Starting: test_0703_republican_card_leader_has_highest_results
+INFO     root:page_library.py:90 Test Pass: Leader has a higher score(87.6%) than 2nd Place(7.1%)
+INFO     root:test_enr_pub.py:361 Test Pass: Republican Leader has highest results

@@ -1,0 +1,7 @@
+INFO     root:test_enr_pub.py:327 ************* Starting: test_0701_republican_card_main_leader_validations
+INFO     root:page_library.py:36 Validation | Element text: REP Representative to Congress (10th District)
+INFO     root:page_library.py:36 Validation | Element text: Last updated: November 4th, 2020 7:05 AM
+INFO     root:page_library.py:36 Validation | Element text: Mike Turner
+INFO     root:page_library.py:36 Validation | Element text: 87.6%
+INFO     root:page_library.py:36 Validation | Element text: Expand for more candidates in this race
+INFO     root:test_enr_pub.py:336 Test Pass: All Republican Leader data is displayed and correct
