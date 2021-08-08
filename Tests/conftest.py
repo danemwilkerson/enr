@@ -38,18 +38,4 @@ def pytest_configure(config):
 def pytest_metadata(metadata):
     metadata.pop("Sample Meta Data", None)
     metadata.pop("Plugins", None)
-
-#   # Code below is in progress
-    # @classmethod
-    # def setUpClass(cls):
-    #     cls.driver = webdriver.Chrome()
-    #     cls.driver.set_window_size(1920, 1080)
-    #     cls.driver.maximize_window()
-    #     cls.driver.get(cls.url)
-    #     cls.driver.implicitly_wait(10)
-    #     WebDriverWait(cls.driver, 10).until(EC.visibility_of_element_located(Locators.PR_HEADER))
-
-    # @classmethod
-    # def tearDownClass(cls):
-    #     cls.driver.close()
-    #     cls.driver.quit()
+    

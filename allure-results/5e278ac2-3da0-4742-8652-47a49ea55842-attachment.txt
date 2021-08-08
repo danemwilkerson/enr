@@ -1,2 +1,0 @@
-INFO     root:test_enr_pub.py:309 ************* Starting: test_0700_republican_card_visibility_validations
-INFO     root:test_enr_pub.py:322 Test Pass: All Republican Card visual elements are displayed

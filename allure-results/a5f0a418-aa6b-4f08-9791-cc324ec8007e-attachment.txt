@@ -1,4 +1,0 @@
-INFO     root:test_enr_pub.py:106 ************* Starting: test_0204_search_full_name
-INFO     root:page_library.py:83 Entered John McManus into the searchfield
-INFO     root:page_library.py:36 Validation | Element text: John McManus
-INFO     root:test_enr_pub.py:112 Test Pass: Able to search full name (min 3 characters)

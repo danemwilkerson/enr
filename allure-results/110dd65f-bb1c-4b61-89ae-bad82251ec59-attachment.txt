@@ -1,4 +1,0 @@
-INFO     root:test_enr_pub.py:76 ************* Starting: test_0201_search_results_candidates_title_validation
-INFO     root:page_library.py:83 Entered Joh into the searchfield
-INFO     root:page_library.py:36 Validation | Element text: Candidates
-INFO     root:test_enr_pub.py:81 Test Pass: Candidate title is displayed in the search results list
